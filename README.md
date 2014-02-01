@@ -8,6 +8,15 @@ YAMAHA_SERVICE_BOOK.pdf
 YAMAHA SR150/SR150S 服務手冊
 加入目錄書籤, 便於查詢
 
+SR150 Part List.pdf
+==
+YAMMAHA SR150 零件手冊
+加入目錄書籤, 便於查詢
+
+
+Source
+==
+
 原始資料來自 zclub SR愛將版
 
 [分享] [維修.保養]愛將SR150 維修手冊+零件手冊下載+車主服務手冊
